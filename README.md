@@ -1,9 +1,8 @@
 
+
 ## Olá! Eu sou o Gabriel de Medeiros ✋
-Busco me inserir no mercado de tecnologia, fazendo uso de meus conhecimentos acadêmicos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-medeiros-2449532a3)
-
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabrielde.2000medeiros@Outlook.com)
 
 
